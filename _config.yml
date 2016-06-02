@@ -69,5 +69,5 @@ theme: clean-blog
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:bennyn/internet-of-chili.git
+  repo: git@github.com:bennyn/chili-project.git
   branch: gh-pages

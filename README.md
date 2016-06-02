@@ -1,4 +1,4 @@
-# internet-of-chili
+# chili-project
 
 ### Build
-[![Build Status](https://travis-ci.org/bennyn/internet-of-chili.svg?branch=master)](https://travis-ci.org/bennyn/internet-of-chili)
+[![Build Status](https://travis-ci.org/bennyn/chili-project.svg?branch=master)](https://travis-ci.org/bennyn/chili-project)

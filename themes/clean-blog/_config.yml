@@ -3,7 +3,7 @@ menu:
   Home: /
   Archives: /archives
   Github:
-    url: https://github.com/bennyn/internet-of-chili
+    url: https://github.com/bennyn/chili-project
     icon: github
 
 # Title on top left of menu. Leave empty to use main blog title
